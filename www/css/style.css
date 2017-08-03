@@ -1,1 +1,8 @@
 /* Empty. Add your own CSS if you like */
+#login_logo {
+	background-color:#000;
+	background-image:url('../img/jpmorganchase.jpg');
+	background-size:100% 100%;
+	background-position:center center;
+	background-repeat:no-repeat;
+}
