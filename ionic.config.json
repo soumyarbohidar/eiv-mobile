@@ -1,0 +1,8 @@
+{
+  "name": "eiv-mobile",
+  "app_id": "",
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ]
+}
